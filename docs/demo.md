@@ -14,8 +14,8 @@ blad blad blad
 
 ## Subtitulo 3
 
-[x] lista de chequeo 1
-[ ] list de chqequeo 2
+- [x] lista de chequeo 1
+- [ ] list de chqequeo 2
 
 ## Subtituo 3
 
